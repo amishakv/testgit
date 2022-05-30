@@ -1,8 +1,9 @@
 <html>
 <head>
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style,css">
 <title>web</title>
 </head>
 <body><h1 style="color:blue;background-color:red">WELCOME TO FUTURA LABS</h1>
+<img src="C:\Users\amish\Documents\gitest"></img>
 </body>
 </html>
